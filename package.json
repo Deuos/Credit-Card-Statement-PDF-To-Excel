@@ -1,0 +1,16 @@
+{
+  "name": "credit-card-statement-pdf-to-excel",
+  "version": "0.0.1",
+  "description": "Converts Pdf to Excel",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deuos",
+  "license": "ISC",
+  "dependencies": {
+    "pdfreader": "^3.0.0",
+    "xlsx": "^0.18.5"
+  }
+}
